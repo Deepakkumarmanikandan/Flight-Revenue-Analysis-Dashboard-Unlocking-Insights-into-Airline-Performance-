@@ -11,8 +11,7 @@ This **Flight Revenue Analysis Dashboard** provides key insights into airline pe
 
 ## 📂 Dataset  
 - Flight Data (Airline, Route, Ticket Class, Revenue, Stops, etc.)  
-- Time Period: [Specify Time Range]  
-- Source: [If it's public data, mention the source]  
+- Time Period: [jan 2025]  
 
 ## 🛠️ Tools Used  
 - **Power BI / Tableau**  
